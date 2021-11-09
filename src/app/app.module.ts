@@ -29,6 +29,7 @@ import { TypographyDesignComponent } from './Design/all-resource/typography-desi
 import { AboutUsComponent } from './about-us/about-us.component';
 import { CommunityComponent } from './community/community.component';
 import { BlogComponent } from './blog/blog.component';
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 
 @NgModule({
   declarations: [
@@ -57,7 +58,8 @@ import { BlogComponent } from './blog/blog.component';
     TypographyDesignComponent,
     AboutUsComponent,
     CommunityComponent,
-    BlogComponent
+    BlogComponent,
+    PagenotfoundComponent
   ],
   imports: [
     BrowserModule,

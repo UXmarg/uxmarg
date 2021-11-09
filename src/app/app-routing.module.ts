@@ -20,6 +20,7 @@ import { PatternbgDesignComponent } from './Design/all-resource/patternbg-design
 import { TypographyDesignComponent } from './Design/all-resource/typography-design/typography-design.component';
 import { VideoDesignComponent } from './Design/all-resource/video-design/video-design.component';
 import { MainDesignComponent } from './Design/main-design/main-design.component';
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 
 const routes: Routes = [
   { path: '',   redirectTo: '/design/all-resource', pathMatch: 'full' },
@@ -46,6 +47,8 @@ const routes: Routes = [
   { path: 'about-us', component: AboutUsComponent },
   { path: 'blog', component: BlogComponent },
   { path: 'community', component: CommunityComponent },
+  { path: '**', redirectTo: '/404'},
+  { path: '404', component: PagenotfoundComponent },
 ];
 
 @NgModule({
