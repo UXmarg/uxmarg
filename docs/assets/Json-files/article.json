@@ -1,39 +1,88 @@
 {
-    "blogs": [{
+    "blogs": [
+        {
         "id": 1,
-        "url": "Revenge-of-the-Never-Trumpers",
+        "url": "Royalty-Free-Video-Website",
         "date": "2021-11-14T18:25:43.511Z",
         "catagory": "free-resource",
-        "image": "https://c1.wallpaperflare.com/preview/427/745/192/notebook-natural-laptop-macbook.jpg",
-        "topic": "Revenge of the Never Trumpers",
+        "image": "assets/article/Blog-Free-Video/1.jpg",
+        "video": null,
+        "topic": "Royalty Free Video Website",
         "author": "Saurab Sen",
+        "authorImage": "assets/saurab-new-profile.png",
         "linkedIn": "",
         "instagram": "",
         "facebook":"",
+        "twitter": "",
         "link": "",
         "tags": [
             { "tagName": "Free Resource" },
-            { "tagName": "logo" }
+            { "tagName": "Video" },
+            { "tagName": "Pexels" },
+            { "tagName": "Coverr" }
         ],
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "description": "In our project we need video, to show as dummy placeholder or in actual video editing project. A lot of time we don't get the desired angle or that 'Wow' factor in our video. To meet those need here are few royalty free video website from where you can download unlimited number of video's for free. They have high resolution video fotage to meet all you project needs.",
         "paragraph": [{
-            "paratopic": "#1. What is Lorem Ipsum?",
-            "image": "",
-            "paragraphOne": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-            "blockquote": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-            "paragraphTwo": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "paratopic": "#1. Pexels",
+            "image": "assets/article/Blog-Free-Video/2.jpg",
+            "video": null,
+            "paragraphOne": "The first website that I have is Pexels. This is one of the most popular website for free video and image assets availabe online. All resources are royelty free and you dont have to pay for the licence. Pexels give you options to credit the owner of the resource, but its not mandatory.",
+            "blockquote": null,
+            "paragraphTwo": null,
             "primaryButtons": {
-                "name": "Click",
-                "url": "http://google.com"
+                "name": "Visit Website",
+                "url": "https://www.pexels.com/"
             },
             "secondaryButtons": {
-                "name": "Click",
+                "name": null,
                 "url": "http://google.com"
             },
             "linkButtons": {
-                "name": "Click",
+                "name": null,
                 "url": "http://google.com"
             }
-        }]
-    }]
+        },
+        {
+            "paratopic": "#2. Coverr",
+            "image": "assets/article/Blog-Free-Video/3.jpg",
+            "video": "",
+            "paragraphOne": "Coverr is also one of the popular website to get free video footage. Like pexel, coverr allows you to download free high resolution video footage for you personal use. It allows user to download and modify the video according to your need. ",
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": "Visit Website",
+                "url": "https://coverr.co/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#2. Pixabay",
+            "image": "assets/article/Blog-Free-Video/4.jpg",
+            "video": "",
+            "paragraphOne": "Pixabay, is another website to get royalty free high resolution video. It has a wide category video collections, with 4k resolution. All video footage are free to user for any type of projects. The videos can be modified and resused without giving credit to the owner.",
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": "Visit Website",
+                "url": "https://pixabay.com/videos/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        }
+    ]
+    }
+]
 }
