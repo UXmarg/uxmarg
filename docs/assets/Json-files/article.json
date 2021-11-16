@@ -1,7 +1,6 @@
 {
     "blogs": [
-        {
-        "id": 1,
+        {"id": 1,
         "url": "Royalty-Free-Video-Website",
         "date": "2021-11-14T18:25:43.511Z",
         "catagory": "free-resource",
@@ -71,6 +70,168 @@
             "paragraphTwo": null,
             "primaryButtons": {
                 "name": "Visit Website",
+                "url": "https://pixabay.com/videos/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        }
+    ]
+    },
+    {"id": 2,
+        "url": "7-Key-Factors-of-UX",
+        "date": "2021-11-16T18:25:43.511Z",
+        "catagory": "ux-aticle",
+        "image": "assets/article/7-Key-Factors-of-UX/1.jpg",
+        "video": null,
+        "topic": "7 Key Factors of UX",
+        "author": "Saurab Sen",
+        "authorImage": "assets/saurab-new-profile.png",
+        "linkedIn": "",
+        "instagram": "",
+        "facebook":"",
+        "twitter": "",
+        "link": "",
+        "tags": [
+            { "tagName": "UX" },
+            { "tagName": "HoneyComb" },
+            { "tagName": "UserExperience" }
+        ],
+        "description": "User experience design is the process of improving products that people interact with. It can be based on how a user feels about a product and their interactions with it, or it can be based on the usability and efficiency of using the product. User experience design is becoming more and more popular because companies are realizing that good products start with good experiences. And these days, every product has to either be optimized for mobile devices or at least have an app. User experience is built on 7 key factors according to Peter Morville, an influential pioneer in the UX field with several best-selling books to his name. These include:",
+        "paragraph": [{
+            "paratopic": "#1. Useful",
+            "image": "assets/article/7-Key-Factors-of-UX/2.jpg",
+            "video": null,
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
+                "url": "https://www.pexels.com/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#2. Usable",
+            "image": "assets/article/7-Key-Factors-of-UX/3.jpg",
+            "video": "",
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
+                "url": "https://coverr.co/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#3. Findable",
+            "image": "assets/article/7-Key-Factors-of-UX/4.jpg",
+            "video": "",
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
+                "url": "https://pixabay.com/videos/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#4. Credible",
+            "image": "assets/article/7-Key-Factors-of-UX/5.jpg",
+            "video": "",
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
+                "url": "https://pixabay.com/videos/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#5. Desirable",
+            "image": "assets/article/7-Key-Factors-of-UX/6.jpg",
+            "video": "",
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
+                "url": "https://pixabay.com/videos/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#6. Accessible",
+            "image": "assets/article/7-Key-Factors-of-UX/7.jpg",
+            "video": "",
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
+                "url": "https://pixabay.com/videos/"
+            },
+            "secondaryButtons": {
+                "name": null,
+                "url": "http://google.com"
+            },
+            "linkButtons": {
+                "name": null,
+                "url": "http://google.com"
+            }
+        },
+        {
+            "paratopic": "#7. Valuable",
+            "image": "assets/article/7-Key-Factors-of-UX/8.jpg",
+            "video": "",
+            "paragraphOne": null,
+            "blockquote": null,
+            "paragraphTwo": null,
+            "primaryButtons": {
+                "name": null,
                 "url": "https://pixabay.com/videos/"
             },
             "secondaryButtons": {
